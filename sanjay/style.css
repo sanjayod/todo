@@ -1,0 +1,13 @@
+body{
+	text-align: center;
+}
+
+.container-fluid
+{
+border-radius: 20px;
+}
+
+
+.table{
+	margin: 50px 0; 
+}
